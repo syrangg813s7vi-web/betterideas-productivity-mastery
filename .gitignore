@@ -1,0 +1,7 @@
+book/
+cleaned-transcripts/
+full_corpus.txt
+video_metadata.json
+clean_transcripts.py
+*.pyc
+__pycache__/
