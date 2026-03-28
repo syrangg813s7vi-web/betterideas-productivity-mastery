@@ -13,7 +13,6 @@ create-missing = true
 default-theme = "coal"
 preferred-dark-theme = "coal"
 git-repository-url = "https://github.com/syrangg813s7vi-web/betterideas-productivity-mastery"
-git-repository-icon = "fa-github"
 site-url = "/betterideas-productivity-mastery/"
 no-section-label = false
 fold.enable = true
@@ -21,14 +20,12 @@ fold.level = 1
 
 [output.html.search]
 limit-results = 30
-teaser-word-count = 30
 use-boolean-and = true
 boost-title = 2
 boost-hierarchy = 1
 boost-paragraph = 1
 expand = true
 heading-split-level = 3
-copy-js = true
 
 [output.html.print]
 enable = true
