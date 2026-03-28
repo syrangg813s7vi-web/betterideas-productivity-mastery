@@ -3,7 +3,6 @@ title = "掌控一切：Better Ideas 生产力完全指南"
 authors = ["Joe Hari / Better Ideas (原创)", "AI 整理与提炼"]
 description = "基于 Better Ideas YouTube 频道 120 期视频（2017-2026）的深度整理。"
 language = "zh"
-multilingual = false
 src = "src"
 
 [build]
