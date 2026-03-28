@@ -1,0 +1,24 @@
+[book]
+title = "掌控生产力：Better Ideas 方法论完全指南"
+author = "基于 Better Ideas YouTube 频道内容整理"
+language = "zh"
+src = "."
+
+[output.html]
+git-repository-url = "https://github.com/syrangg813s7vi-web/betterideas-productivity-mastery"
+default-theme = "light"
+preferred-dark-theme = "navy"
+curly-quotes = true
+copy-fonts = true
+no-section-label = false
+
+[output.html.search]
+enable = true
+limit-results = 20
+teaser-word-count = 30
+use-boolean-and = true
+boost-title = 2
+boost-hierarchy = 1
+boost-paragraph = 1
+expand = true
+heading-split-level = 3
